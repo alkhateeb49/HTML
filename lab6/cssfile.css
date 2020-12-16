@@ -9,19 +9,19 @@ main img{
 main H1{
     display: inline;
 }
-main img{
+footer div img{
     margin-top: 15px; 
     margin-bottom: 15px;
 
-    background-color:#efecf5;
     border-style: dotted;
     border-width: 2px;
+    border-color:#f31a2c;
 
     padding-top: 2px;
     padding-bottom: 2px;
     padding-right: 2px;
     padding-left: 2px;
 }
-main ul{
+main p{
 background-color:hsl(184, 100%, 50%);
 }

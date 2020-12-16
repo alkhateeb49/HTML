@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(153, 129, 175)
+}
+
+
+main img{
+    display: inline;
+}
+main H1{
+    display: inline;
+}
+footer div img{
+    margin-top: 15px; 
+    margin-bottom: 15px;
+
+    border-style: dotted;
+    border-width: 2px;
+    border-color:#f31a2c;
+
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+main p{
+background-color:hsl(184, 100%, 50%);
+}

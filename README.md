@@ -1,4 +1,5 @@
 # HTML
 ## Table of content
 
-- [Lab05](https://alkhateeb49.github.io/HTML/lab05.html)
+
+- [Open Page](https://alkhateeb49.github.io/HTML/index.html)

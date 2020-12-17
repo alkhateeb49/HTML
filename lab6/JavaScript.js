@@ -6,3 +6,4 @@ if (bool) {
   }
   var name = prompt("Please enter your name", "Name");
   confirm("Press a button!");
+  alert("Welcome " + name + "!!");
